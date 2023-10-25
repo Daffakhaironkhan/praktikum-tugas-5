@@ -1,6 +1,30 @@
 # tokokita
 
-A new Flutter project.
+Screenshots
+
+# Login page
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/login.png?raw=true)
+
+# Register page
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/register.png?raw=true)
+
+# Produk page
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/produk.png?raw=true)
+
+# Detail Produk 1
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/detailproduk1.png?raw=true)
+
+# Detail Produk 2
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/detailproduk2.png?raw=true)
+
+# Detail Produk 3
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/detailproduk3.png?raw=true)
+
+# Tambah Produk
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/tambahproduk.png?raw=true)
+
+# Edit Produk
+![alt text](https://github.com/Daffakhaironkhan/praktikum-tugas-4/blob/main/screenshots/editproduk.png?raw=true)
 
 ## Getting Started
 
